@@ -1,6 +1,6 @@
 # Toy Robot - Coding Challenge
 
-A simulation of a Toy Robot moving on a square tabletop
+A simulation of a Toy Robot moving in a square tabletop
 
 ## The instructions
 * You are required to simulate a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
